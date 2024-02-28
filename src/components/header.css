@@ -1,0 +1,13 @@
+.hello{
+    background: #2970FF;
+    position: sticky;
+
+}
+
+#name{
+    text-align: center;
+    font-weight: 500;
+    font-size: 28px;
+    color: #FFFFFF;
+    
+}

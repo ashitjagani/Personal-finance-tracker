@@ -1,0 +1,65 @@
+
+
+
+.yes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my{
+   
+    padding: 1rem;
+  border-radius: 20px;
+  box-shadow: 0px 0px 30px 8px #E3E3E3BF;
+  margin-top: 5%;
+  width: 50%;
+  height: 50%;
+  
+   
+}
+
+
+
+#button1{
+    
+    box-shadow: 0px 0px 30px 8px #E3E3E3BF;
+    background-color: #E3E3E3BF;
+    width: 100%;
+    color:  #387EF5;
+    font-weight: 500;
+    
+}
+
+
+
+#as{
+    text-align: center;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 1rem;
+}
+
+
+#button2{
+    
+    box-shadow: 0px 0px 30px 8px #E3E3E3BF;
+    background-color: #E3E3E3BF;
+    width: 100%;
+    color:  white;
+    background-color: #387EF5;
+    font-weight: 500;
+    
+}
+
+
+.title{
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 34.13px;
+    text-align: center;
+}
+
+.chiku{
+    cursor: pointer;
+}

@@ -1,0 +1,23 @@
+#vachan{
+
+    margin: 15px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   flex-wrap: wrap;
+
+}
+
+
+.which{
+    width: calc(33.33% - 10px);
+  box-shadow: 0px 0px 30px 8px #E3E3E3BF;
+}
+
+.jay{
+    background: #387EF5;
+    width:100%;
+    color:white;
+    font-weight: 500;
+    
+}
